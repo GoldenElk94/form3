@@ -1,0 +1,172 @@
+/*CSS Ids Classs Selectors*/
+/*.f1 and form*/
+.f1, form{
+    margin: 0 auto;
+	overflow: hidden;
+	width: 625px;
+	height: 1035px;
+	border: 0.5px solid black;
+	background-color: rgba(40,28,152,0.56);
+	position: relative;
+}
+/*.member*/
+.member {
+	text-align: center;
+	margin-top: 40px;
+	color: rgba(247,243,243,0.82);
+}
+/*.e2*/
+.e2 {
+	padding-left: 20px;
+	padding-right: 20px;
+	width: 80%;
+	height: 50px;
+	overflow: hidden;
+	font-family: 'Roboto', sans-serif;
+	font-size: 15px;
+}
+/*.password*/
+.password {
+	margin: 50px 0 0 0;
+}
+/*.sign*/
+.sign {
+	width: 72%;
+	height: 50px;
+	overflow: hidden;
+	font-family: 'Roboto', sans-serif;
+	margin-top: 100px;
+	background-color: rgba(5,65,191,0.85);	
+	border: none;
+	color: #fff !important;
+	text-align: center;
+	padding: 15px 19.5px;
+	font-size: 15px;
+}
+/*.f3*/
+.f3 {
+	overflow: hidden;
+	background-color: rgba(40,28,152,0.2);
+	position: absolute;
+	pointer-events: none;
+	top: 0;
+	left: 83px;
+	width: 625px;
+	height: 2000px;
+	pointer-event: none;
+	transform: rotate(30deg);
+}
+/*.sign, .email, .password*/
+.sign,
+.email,
+.password {
+	position: relative;
+	margin-left: 65px;
+}
+/*.box1*/
+.box1 {
+	position: relative;
+	margin: 65px;
+	height: 60px;
+	width: 80%;
+}
+/*.box2*/
+.box2 {
+	position: relative;
+	color: rgba(248,248,248,0.88);
+	font-size: 25px;	
+}
+/*.lnk*/
+.lnk {
+	position: relative;
+	overflow: hidden;
+	float: right;
+	color: rgba(248,248,248,0.88);
+	font-size: 25px;
+	text-decoration: none;
+}
+/*lnk hover effect*/
+.lnk:hover {
+	color: rgba(58,243,8,0.62);
+}
+
+/*Form 2 register*/
+#j1{
+	overflow: hidden;
+	background-color: rgba(40,28,152,0.2);
+	position: absolute;
+	pointer-events: none;
+	top: 0;
+	right: 83px;
+	width: 625px;
+	height: 2000px;
+	transform: rotate(150deg);
+}
+
+.register {
+	position: relative;
+	text-align: center;
+	margin-top: 50px;
+	color: rgba(247,243,243,0.82);
+}
+
+.fullName, .userName, .password1, .email1, .confirm {
+	position: relative;
+	width: 100%;
+	overflow: hidden;
+	margin-left: 40px;
+	padding: 10px;
+	
+}
+
+
+.g2 {
+	position: relative;
+	padding: 10px;
+	width: 80%;
+	height: 50px;
+	overflow: hidden;
+	font-family: 'Roboto', sans-serif;
+	font-size: 20px;
+	text-align: center;
+	
+}
+
+.j3 {
+	margin-left: 60px;
+	position: relative;
+	width: 100%;
+	height: 60px;
+	
+}
+
+.j5 {
+	position: relative;
+	padding: 10px;
+	width: 80%;
+	height: 50px;
+	overflow: hidden;
+	font-family: 'Roboto', sans-serif;
+	font-size: 20px;
+	text-align: center;
+	background-color: rgba(52,52,52,0.85);
+	color: rgba(0,240,2,0.74);
+}
+
+.j5:hover {
+	background-color: rgba(235,175,117,0.69);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
